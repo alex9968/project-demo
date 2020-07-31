@@ -1,6 +1,10 @@
 
 ## 文件结构命名及规范示例
 
+```
+
+```
+
 project-demo
 ├── README.md
 ├── node_modules
@@ -46,3 +50,5 @@ project-demo
         ├── http.js
         ├── index.js
         └── time.js
+
+```
