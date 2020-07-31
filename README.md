@@ -22,9 +22,6 @@ project-demo
     │   │   ├── DetailPage
     │   │   │   ├── index.jsx
     │   │   │   └── index.scss
-    │   │   ├── EditPage
-    │   │   │   ├── index.jsx
-    │   │   │   └── index.scss
     │   │   ├── MyLayout
     │   │   │   ├── MyLayout.jsx
     │   │   │   └── index.scss
@@ -46,7 +43,6 @@ project-demo
         ├── http.js
         ├── index.js
         └── time-transfrom.js
-
 ```
 
 ## 文件夹命名
